@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Olá, eu sou a Ana!
+ 
+📚 Foco em aprendizado constante e desenvolvimento de habilidades em QA, desenvolvimento web e análise de dados  
+🔍 Estudando para o ENEM e explorando áreas da tecnologia  
+💡 Entusiasta de criatividade, arte, música e tecnologia
 
-<!--
-**beeinblue/beeinblue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Tecnologias e Ferramentas
 
-Here are some ideas to get you started:
+- HTML, CSS, JavaScript
+- Git e GitHub
+- SQL (básico)
+- Ferramentas de QA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Em aprendizado atualmente
+
+- Qualidade de Software
+- Desenvolvimento Front-End
+
+## 💬 Fale comigo!
+
+- 📧 Email: abeatrizpereiraz@outlook.com
+- 💼 [LinkedIn] https://www.linkedin.com/in/anabeatriz-p/
+
+---
+
+⭐️ Se curtir algum dos meus projetos, não esquece de deixar uma estrela!
