@@ -18,7 +18,7 @@
 
 ## 💬 Fale comigo!
 
-- 📧 Email: abeatrizpereiraz@outlook.com
+- 📧 Email: beatriz.sxp@outlook.com
 - 💼 [LinkedIn] https://www.linkedin.com/in/anabeatriz-p/
 
 ---
