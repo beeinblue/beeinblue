@@ -1,8 +1,7 @@
 ## Hi, I'm Ana and welcome to my world!
 🔍 Passionate about technology, continuous learning, and creative solutions  
-💼 Looking for opportunities in web development and QA  
-🛠️ Tech stack: HTML | CSS | JavaScript | C# | .NET
-🌱 Currently learning: Frontend Roadmap
+💼 Looking for opportunities as Frotend Developer and QA  
+🌱 Currently learning: Oracle Next Education
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/anabeatriz-p/)
 
 [![beeinblue's GitHub stats](https://github-readme-stats.vercel.app/api?username=beeinblue&show_icons=true&theme=radical&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
