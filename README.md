@@ -1,6 +1,5 @@
 ## Hi, I'm Ana and welcome to my world!
 🔍 Passionate about technology, continuous learning, and creative solutions  
-💼 Looking for opportunities as Software Developer  
 🌱 Currently learning: Oracle Next Education
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/anabeatriz-p/)
 
