@@ -1,4 +1,4 @@
-## Hi, I'm Ana and welcome to my world!
+## Ana Beatriz Pereira
 🔍 Passionate about technology, continuous learning, and creative solutions  
 🌱 Currently learning: Oracle Next Education
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/anabeatriz-p/)
