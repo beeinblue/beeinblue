@@ -1,7 +1,6 @@
 ## ✨ Ana Beatriz Pereira  
-Developer with solid knowledge in frontend and backend, using languages such as JavaScript, Python, C#, HTML, and CSS. Hands-on experience in web application development, version control with Git, and coding best practices. Background in QA, ensuring quality, performance, and security in deliverables. Open to working in different areas of development and contributing to efficient and innovative solutions.  
+Professional with solid knowledge in frontend and backend, using languages such as JavaScript, Python, C#, HTML, and CSS. Hands-on experience in web application development, version control with Git, and coding best practices. Background in QA, ensuring quality, performance, and security in deliverables. Open to working in different areas and contributing to efficient and innovative solutions.  
 
-🌱 Currently studying: React.js and REST API  
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/anabeatriz-p/)
 
 ### 👾 My Skills:
