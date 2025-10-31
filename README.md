@@ -1,9 +1,8 @@
-## ✨ Ana Beatriz Pereira  
-Professional with solid knowledge in frontend and backend, using languages such as JavaScript, Python, C#, HTML, and CSS. Hands-on experience in web application development, version control with Git, and coding best practices. Background in QA, ensuring quality, performance, and security in deliverables. Open to working in different areas and contributing to efficient and innovative solutions.  
+## ✨ Hello, I'm Ana Beatriz!  
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/anabeatriz-p/)
 
-### 👾 My Skills:
+### 👾 Already know:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,cs,git)](https://skillicons.dev)
 
 [![beeinblue's GitHub stats](https://github-readme-stats.vercel.app/api?username=beeinblue&show_icons=true&theme=radical&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
