@@ -4,8 +4,6 @@
   </a>
 </div>
 
-<img width="500" height="230" alt="image" align="center" src="https://github.com/user-attachments/assets/a2669876-31e5-4ee9-af5a-7a3c3b1aba83" />
-
 Olá, eu sou a Ana! Estudo Sistemas de Informação na Unijorge e estou participando do bootcamp da Oracle Next One (trilha backend com Java).
 No momento estou a procura de estágio para desenvolver minhas habilidades e absorver novos conhecimentos, também tenho experiência na área de QA onde atuei como aprendiz.
 
