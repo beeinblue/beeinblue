@@ -1,4 +1,14 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Krona+One&duration=3000&pause=2000&color=9875FF&center=true&vCenter=true&width=435&lines=Hey+you!+;I'm+Ana+;Welcome+to+my+space!+%F0%9F%91%BE)](https://git.io/typing-svg)
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=60&size=22&pause=1000&color=ff69b4&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%E2%8A%B9" alt="Typing SVG">
+  </a>
+</div>
+
+<img width="500" height="230" alt="image" align="center" src="https://github.com/user-attachments/assets/a2669876-31e5-4ee9-af5a-7a3c3b1aba83" />
+
+Olá, eu sou a Ana! Estudo Sistemas de Informação na Unijorge e estou participando do bootcamp da Oracle Next One (trilha backend com Java).
+No momento estou a procura de estágio para desenvolver minhas habilidades e absorver novos conhecimentos, também tenho experiência na área de QA onde atuei como aprendiz.
+
 
 ## Already know
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" width="40" height="40"/>
