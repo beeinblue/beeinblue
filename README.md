@@ -17,7 +17,9 @@ No momento estou a procura de estágio para desenvolver minhas habilidades e abs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beeinblue&layout=compact&theme=radical)](https://github.com/beeinblue)
 
 ## How to reach me
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="45" height="45"/>
+<a href="https://www.linkedin.com/in/anabeatriz-p/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/LinkedIn_2021.svg" width="90">
+</a>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/beeinblue/beeinblue/output/github-contribution-grid-snake-dark.svg">
