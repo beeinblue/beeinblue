@@ -7,6 +7,7 @@
 Olá, eu sou a Ana! Estudo Sistemas de Informação na Unijorge e estou participando do bootcamp da Oracle Next One (trilha backend com Java).
 No momento estou a procura de estágio para desenvolver minhas habilidades e absorver novos conhecimentos, também tenho experiência na área de QA onde atuei como aprendiz.
 
+![Snake animation](https://github.com/beeinblue/beeinblue/blob/output/github-contribution-grid-snake.svg)
 
 ## Already know
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" width="40" height="40"/>
