@@ -4,7 +4,7 @@
   </a>
 </div>
 
-Olá, eu sou a Ana! Estudante de Sistemas de Informação com experiência em QA, área que pretendo seguir. Vamos nos conectar no LinkedIn e trocar ideias! :)
+Olá, eu sou a Ana! Estudante de Sistemas de Informação e em busca de estágio para explorar e adquirir novos conhecimentos :)
 
 ## How to reach me
 <a href="https://www.linkedin.com/in/anabeatriz-p/">
