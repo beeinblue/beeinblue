@@ -4,7 +4,28 @@
   </a>
 </div>
 
-Olá, eu sou a Ana! Estudante de Sistemas de Informação e em busca de estágio para explorar e adquirir novos conhecimentos :)
+# 👋 Olá, eu sou a Ana!
+## Sobre Mim:
+🌱 Sou profissional em formação em Sistemas de Informação
+
+💻 Tenho experiência em QA e Análise de Sistemas (SAP)
+
+📚 Atualmente estudo com foco em explorar novas ferramentas
+
+## 💡 Tecnologias:
+• C#
+
+• .NET
+
+• SpecFlow
+
+• Postman
+
+• Selenium
+
+• Cypress
+
+• SQL (BD Relacional)
 
 ## How to reach me
 <a href="https://www.linkedin.com/in/anabeatriz-p/">
