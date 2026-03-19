@@ -8,7 +8,7 @@
 ## Sobre Mim:
 🌱 Sou profissional em formação em Sistemas de Informação
 
-💻 Tenho experiência em QA e Análise de Sistemas (SAP)
+💻 Tenho experiência em com testes e desenvolvimento C#
 
 📚 Atualmente estudo com foco em explorar novas ferramentas
 
