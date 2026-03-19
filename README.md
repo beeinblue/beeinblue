@@ -27,7 +27,7 @@
 
 • SQL (BD Relacional)
 
-## How to reach me
+## Onde me encontrar
 <a href="https://www.linkedin.com/in/anabeatriz-p/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/LinkedIn_2021.svg" width="90">
 </a>
