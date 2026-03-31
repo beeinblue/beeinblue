@@ -23,8 +23,6 @@
 
 • Selenium
 
-• Cypress
-
 • SQL (BD Relacional)
 
 ## Onde me encontrar
