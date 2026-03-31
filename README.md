@@ -6,7 +6,7 @@
 
 # 👋 Olá, eu sou a Ana!
 ## Sobre Mim:
-🌱 Sou profissional em formação em Sistemas de Informação
+🌱 Sou profissional em formação em Engenharia de Software
 
 💻 Tenho experiência em com testes e desenvolvimento C#
 
