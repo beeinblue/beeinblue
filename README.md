@@ -4,28 +4,7 @@
   </a>
 </div>
 
-# 👋 Olá, eu sou a Ana!
-## Sobre Mim:
-🌱 Sou profissional em formação em Engenharia de Software
-
-💻 Tenho experiência em com testes e desenvolvimento C#
-
-📚 Atualmente estudo com foco em explorar novas ferramentas
-
-## 💡 Tecnologias:
-• C#
-
-• .NET
-
-• SpecFlow
-
-• Postman
-
-• Selenium
-
-• SQL (BD Relacional)
-
-## Onde me encontrar
+## How to reach me
 <a href="https://www.linkedin.com/in/anabeatriz-p/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/LinkedIn_2021.svg" width="90">
 </a>
